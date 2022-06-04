@@ -37,7 +37,7 @@
 ## Why Me ?
 
 - I can create **Blazingly Fast** and **Secure** Bootloader with `Rust`
-- I can implement `CI/CD pipeline` and containarize your Project
+- I can implement `CI/CD pipeline`
 - I'm always **learning new** technologies and **improving** myself
 - I'm an **autodidact** learner, so I teach myself **effectively**
 
