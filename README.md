@@ -36,7 +36,7 @@
 
 ## Why Me ?
 
-- I can create **Blazingly Fast** and **Secure** Bootloader with `Rust`
+- I can create **Blazingly Fast** and **Secure** **Bootloader** with `Rust`
 - I can implement `CI/CD pipeline`
 
 ## About Me
