@@ -57,7 +57,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&size=22&center=true&vCenter=true&color=008080&lines=Thanks+For+Visiting+My+Profile+🙏;Please+Star+This+Repository;Have+A+Great+Day+!!!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&size=22&center=true&vCenter=true&color=008080&lines=Thanks+For+Visiting+My+Profile+🙏;Please+Star+My+Repositories;Have+A+Great+Day+!!!" />
 </p>
 
 <p align="center">Created with ❤️ by imrank03. Check My Other Projects 👉 <a href="https://github.com/imrank03?tab=repositories">here</a></p>
