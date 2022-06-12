@@ -7,6 +7,9 @@
 - 😄 A passionate self-taught **Embedded developer** and a **Security Engineer** from India. 
 - ⚡ I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+<details>
+<summary>Click here for more information</summary>   
+
 <!-- Skills as a table -->
 
 ## **Languages and tools:**  
@@ -19,15 +22,12 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <!-- Github Stats, coding streak, Most used languages analytics-->
-## GitHub Stats
-<details>
-<summary>Click here for GitHub Stats</summary>    
+## GitHub Stats 
  <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imrank03&show_icons=true&icon_color=000000&hide_border=true&title_color=008080&text_color=555">
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrank03&hide=html,&hide_border=true&title_color=008080&text_color=555"
 </p>
-</details>
 
 <!-- About Me Section -->
 
@@ -59,3 +59,5 @@
 </p>
 
 <p align="center">Created with ❤️ by imrank03. Check My Other Projects 👉 <a href="https://github.com/imrank03?tab=repositories">here</a></p>
+ 
+ </details>
