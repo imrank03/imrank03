@@ -21,7 +21,7 @@
 <!-- Github Stats, coding streak, Most used languages analytics-->
 ## GitHub Stats
 <details>
-<summary>Click for GitHub Stats</summary>    
+<summary>Click here for GitHub Stats</summary>    
  <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imrank03&show_icons=true&icon_color=000000&hide_border=true&title_color=008080&text_color=555">
     <br>
