@@ -1,12 +1,11 @@
 <!-- Hero Section -->
-![Imran K](https://user-images.githubusercontent.com/92363511/173253892-8f0f71d9-048d-4a3d-b89f-0361ffe0d6ed.svg)
-
-A passionate self-taught Embedded developer and a Security Engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+# 👋 Hello I'm Imran K
 
 # **I'm**
 ![Imran](https://user-images.githubusercontent.com/92363511/173255137-082d108f-c579-4415-beb5-e42401b0d025.svg)
+
+- 😄 A passionate self-taught Embedded developer and a Security Engineer from India. 
+- ⚡ I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <!-- Skills as a table -->
 
