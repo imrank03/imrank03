@@ -22,9 +22,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!-- Github Stats, coding streak, Most used languages analytics-->
 ## GitHub Stats
 <details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imrank03&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=008080&text_color=555">
+<summary>Click for GitHub Stats</summary>    
+ <p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imrank03&show_icons=true&icon_color=000000&hide_border=true&title_color=008080&text_color=555">
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrank03&hide=html,&hide_border=true&title_color=008080&text_color=555"
 </p>
