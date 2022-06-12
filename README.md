@@ -8,7 +8,7 @@
 - ⚡ I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <details>
-<summary>Click here for more information</summary>   
+<summary> 💁‍♂️ Click here for more information</summary>   
 
 <!-- Skills as a table -->
 
