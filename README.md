@@ -4,7 +4,7 @@
 # **I'm**
 ![Imran](https://user-images.githubusercontent.com/92363511/173255137-082d108f-c579-4415-beb5-e42401b0d025.svg)
 
-- 😄 A passionate self-taught Embedded developer and a Security Engineer from India. 
+- 😄 A passionate self-taught **Embedded developer** and a **Security Engineer** from India. 
 - ⚡ I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <!-- Skills as a table -->
