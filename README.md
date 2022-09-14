@@ -1,8 +1,6 @@
 <!-- Hero Section -->
 # 👋 Hello I'm Imran K
 
-# **I'm**
-
 - 😄 A passionate self-taught **Embedded developer** and a **Security Engineer** from India. 
 - ⚡ I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
