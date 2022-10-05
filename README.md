@@ -30,18 +30,11 @@
 
 <!-- What I offer -->
 
-## Why Me ?
-
-- I can create **Blazingly Fast** and **Secure** **Bootloader** with `Rust`
-- I can implement `CI/CD pipeline`
-
 ## About Me
 
 <br />
 
 🔭 I’m currently working on **Rust** and **Secure Bootloaders**
-
-🌱 I’m currently learning **Rust**, **Crypto** & **C++**
 
 💬 Ask me about **Rust**, **Crypto** and **Embedded**
 
